@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.idrsolutions.image:jdeli:8.13.23">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/idrsolutions/image/jdeli/8.13.23/jdeli-8.13.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/idrsolutions/image/jdeli/8.13.23/jdeli-8.13.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/idrsolutions/image/jdeli/8.13.23/jdeli-8.13.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
