@@ -41,9 +41,9 @@ I have a task: Using a jar file that provided before and benchmark it. So to add
 We can add the dependency to our Maven project by adding those line to our `pom.xml` file:
 ```xml
 <dependency>
-	<groupId>com.roufid.tutorials</groupId>
-	<artifactId>example-app</artifactId>
-	<version>1.0</version>
+            <groupId>com.idrsolutions.image</groupId>
+            <artifactId>jdeli</artifactId>
+            <version>8.13.23</version>
 </dependency>
 ```
 
