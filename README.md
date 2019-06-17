@@ -1,1 +1,1 @@
-# images-processing
+# Benchmark Java images-processing
