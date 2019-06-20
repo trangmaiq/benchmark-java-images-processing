@@ -77,3 +77,11 @@ Single Shot Time	Measures how long time a single benchmark method execution take
 All	                Measures all of the above.
 ```
 The default benchmark mode is `Throughput`.
+
+## Memory Usage
+We may use JMH built-in `prof -gc` profiler to get much more accurate estimate. `gc.alloc.rate.norm value` will show the number of bytes allocated while executing the method marked with @Benchmark annotation:
+
+```
+java -jar target/benchmarks.jar -prof gc
+```
+
